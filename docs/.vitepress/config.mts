@@ -58,6 +58,6 @@ export default defineConfig({
       provider: 'local',
     },
 
-    socialLinks: [{ icon: 'github', link: '' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Jimi1126/front-end-stack' }],
   },
 });
