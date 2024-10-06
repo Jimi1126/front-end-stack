@@ -50,7 +50,11 @@ export default defineConfig({
       },
       {
         text: '面试题',
-        items: [{ text: 'html', link: '/interview/html' }],
+        items: [
+          { text: 'html', link: '/interview/html' },
+          { text: 'css', link: '/interview/css' },
+          { text: 'js', link: '/interview/js' },
+        ],
       },
     ],
 
