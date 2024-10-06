@@ -46,6 +46,33 @@ export default defineConfig({
               { text: '浏览器渲染原理', link: '/system/js/renderer' },
             ],
           },
+          {
+            text: '前端工程化',
+            items: [
+              { text: '什么是前端工程化？', link: '/system/engineered/iswhat' },
+              { text: '页面优化策略', link: '/system/engineered/页面优化策略' },
+            ],
+          },
+          {
+            text: 'Vuejs',
+            items: [{ text: '什么是Vuejs？', link: '/system/vue/iswhat' }],
+          },
+          {
+            text: 'Reactjs',
+            items: [{ text: '什么是Reactjs？', link: '/system/react/iswhat' }],
+          },
+          {
+            text: '设计模式',
+            items: [{ text: '什么是设计模式？', link: '/system/design/pattern/iswhat' }],
+          },
+          {
+            text: '编程范式',
+            items: [{ text: '什么是编程范式？', link: '/system/design/program-mode/iswhat' }],
+          },
+          {
+            text: '程序设计思想',
+            items: [{ text: '架构设计', link: '/system/design/framework/架构设计' }],
+          },
         ],
       },
       {
