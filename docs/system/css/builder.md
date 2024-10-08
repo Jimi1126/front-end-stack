@@ -31,21 +31,9 @@ h3 {
 ```css
 /* || General styles */
 
-...
-
 /* || Typography */
-
-/* || Typography */
-
-/* || Typography */
-
-/* || Typography */
-
-...
 
 /* || Header and Main Navigation */
-
-...;
 ```
 
 ### 3. 避免重复
